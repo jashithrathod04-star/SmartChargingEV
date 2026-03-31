@@ -9,8 +9,8 @@ An advanced **Business Intelligence & Data Mining Dashboard** built using **Stre
 ---
 
 # 🎓 Academic Details
-- **Developer:** NISHTHA-PRIYESH-SHAH  
-- **WACP No:** 1000436  
+- **Developer:** Jashith Hemendra Rathod   
+- **WACP No:** 1000422  
 - **CRS Subject:** Artificial Intelligence  
 - **Course:** Data Mining (IBCP)  
 - **Institution:** Aspen Nutan Academy  
