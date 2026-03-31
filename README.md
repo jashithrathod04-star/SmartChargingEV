@@ -169,7 +169,7 @@ This project analyzes global EV charging station data to:
 - ✔ Map Visualization  
 
 ---
-
+# 📂 Repository Structure
 IDAI105-1000422-Jashith-Hemendra-Rathod/
 │
 ├── app.py
@@ -199,4 +199,4 @@ streamlit run app.py
 -Folium
 -Streamlit
 
-# 📂 Repository Structure
+
